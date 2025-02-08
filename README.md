@@ -7,28 +7,49 @@
     - no joy in that
 
 ## an automation dev ops approach
-    - focuses on dev experience, ergonoics, dev experience and productivity
+    - focuses on dev experience, ergonom
+    ics, dev experience and productivity
     - leverages time dev would spend waiting for ai agent to finish locally
     - current cycle of iteration i have seen as a developer using the best ai tools like cursor and others:
         - make change
         - run tests
         - tests fail
         - repeat
-    - what if we had a workflow:
+    - first ai prompt with modern composer agent in empty repo -> massive huge first step forward - YAY
+    - yet soon we find ourselves caught in little bugs in multiple iterations using massive intelligence in 8, 9, 10 loops making teeny tiny baby steps
+    - how do we optimize for steadiness, momentum, workflow, focus
+    - the method / workflow:
         - instead of sequentially going thru those steps
         - an emphasis on the connections between the steps as a whole rather than treating them as indivudual stages or silos
-        - naturally appleis systems thinking
-        - devs were orchestrating from an elevated and slightly removed view
-        - instead of applying, approving, saving, and puishing (monotonous, repetitive, untapped dev potential)
-        - a new framework is proposed to elevate the developer to a different stance in the SDLC
+        - naturally applies systems thinking
+        - devs will take an "Outside and slightly elevated" posture
+        - i am a developer, and this method is PRO developer JOY and MAX developer LEVERAGE
+        - absolutely not about replacing the developer, in fact developers who embrace this will enjoy their careers more and get into flow state easier
+        - even if the developer could automate their own role, they should, and would just move one step higher under this system
+        - instead of applying, approving, saving, and pushing (monotonous, repetitive, untapped dev potential)
+        - a new framework is proposed to elevate the developer to a different stance in the SDLC (should we call this SDLC orfocus on the cycle of iteration metnioned earlier?)
         - composing feedback loops to optimize signal from the iteration process
-        - product design and thought culture that has a different way of thinking
+        - absolutely not about imposing structure
+        - pull vs push (this is leaning towards pull most likely - trust, and the recursive leap of faith that structure emerges naturally, not thru hierarchy)
+        - product design and thought culture that has a different way of thinking (most people can't think this way, thus a new method must be born and evangelized like dev ops once was)
+        - yet another opportunity for developers will be to consult and spread the gospel of this "good news" framework, and be paid well doing it and have plenty of opportunities
+        - books, trade shows, etc
         - more systems based, less sequential iteration rinse and repeat
-        - more testing based, policy driven, dev workflow
-        - as much a workflow as any particular aplpication or technology
-        - rather than using ai to supplement current dev workflow, it reinvents it
-        - yet uses principles and agile dev ops systems thinking and iteration principles that are timeless
-    - using these tools
+        - more testing based, policy driven, dev workflow centric
+        - doesn't reinvent the wheel, rather reacts to agentic disruption and responds dynamically and with a sense "we belong here" and very intentionally and for a long time to come
+        - as much a workflow/methodology/framework as any particular application or technology
+        - most programmers who do use ai tools like Cursor are still approaching it as the "sixth bullet point in their product roadmap," like Marc Andreessen said
+        - even these AI first code editors are primarily SaaS tools, therefore technologies, rather than methodologies, and also they are bolting on to existing things like VS Code (6th bullet point example yet its easy to fool you as an AI first tool)
+        - more people focused on the tooling than the workflows, and the workflow piece is what 70% of this is emerging to be about
+        - might still do a bit of tinkering with github actions to see if we can do a PoC, but don't want to get too caught up in the trap of focusing too much on building a tool rather than a framework
+        - framework first, tools emerge
+        - how could we build a good tool for something we still don't fully understand yet?
+        - those who understant this workflow will be the best tool builders and benefit from explaning its' widespread adoption which is bound to happen eventually
+        - start ups will become the next big companies and that's when this will catch like wildfire
+        - bonus: we don't need funding or a business plan
+        - still want to look for really interesting ways to ourselves get feedback loops optimized while building this framework, and indeed documentation can still be produced this way, not just code. but entire frameworks.
+        - team based, hoping others contribute and share interest, collaborate, share together with joy and excitement
+    - the tech side 
         - cicd focused (agent applies code in cloud without approval, but must pass tests iterated on by developer)
         - while agent is busy working, instead of waiting dev is writing yaml, giving feedback in git commit messages, and this is used for the next iteration in a trace bullet manner
         - critical dev skills still utilized, including git branching and merging skills, communication ability, especially in teams, and writing skills especially
