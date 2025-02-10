@@ -1,3 +1,7 @@
+# Abstract
+AI-driven development is accelerating, yet most developers still interact with AI agents in a manual, sequential way, leading to inefficiencies and context switching. This paper proposes a workflow-first approach that integrates AI-driven automation with CI/CD pipelines, allowing developers to move from reactive iteration loops to continuous, system-driven optimization. By shifting the developer’s role from AI babysitter to orchestrator of intelligent feedback loops, we unlock deeper focus, improved developer experience, and a framework for sustainable, high-leverage software engineering.
+
+
 # Idea
 
 ## Currently AI is blowing up and getting better every day
