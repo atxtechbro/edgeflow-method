@@ -62,3 +62,6 @@ AI-driven development is accelerating, yet most developers still interact with A
         - metrics: tokens per query, log lifecycle management (some logs more effective than others in providing useful feedback, and might create noise and more tokens at some point. dev must monitor this, and will enjoy several interesting problem solving challenges)
         - plenty of other challenges sure to emerge, completely unpredictably and organically
         - agents apply their own code in cicd
+
+### modeling
+IDEA: modeling the feedback loop of coding, committing, pushing, waiting for test results, and plugging test result logs into as as  **TURN BASED GAME**
