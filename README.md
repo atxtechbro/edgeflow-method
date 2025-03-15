@@ -65,3 +65,37 @@ AI-driven development is accelerating, yet most developers still interact with A
 
 ### modeling
 IDEA: modeling the feedback loop of coding, committing, pushing, waiting for test results, and plugging test result logs into as as  **TURN BASED GAME**
+
+# Notes on "Agentic AI Needs a Systems Theory"
+
+## arXiv:2503.00237
+
+"At the most granular level, an agent contains an internal [ACT - SENSE - ADAPT] loop."
+
+### Interfaces
+
+- AGENT-HUMAN interface
+- AGENT-AGENT interface
+- AGENT-ENVIRONMENT interface
+
+### Capabilities & Attributes
+
+Collective agency metrics of some kind rather than isolated vanity metrics like this model has this score (so what? its more powerful to stack tinier more cooperative models together and their total output is more than the sum of their parts - how to measure and optimize that is the question.
+
+## Agentic AI Systems Theory (AAIST)
+
+*A new as of yet undeveloped method for describing how agency at the system level can emerge from the interactions between much simpler agents (tool-use LLMs), humans and the environment.*
+
+### Key Concepts
+
+- Emergent capabilities arise from agent interactions rather than individual model performance
+- Systems-level perspective is essential for understanding agentic AI behavior
+- Metacognitive awareness develops through environment and multi-agent interactions
+- Current AI development focuses too narrowly on individual model capabilities
+
+### Implications for My Work
+
+- Consider designing systems of specialized agents rather than relying on single powerful models
+- Focus on interface design between agents, humans, and environments
+- Develop metrics that capture emergent system properties rather than individual agent performance
+- Explore mechanisms for enhanced agent cognition through interaction
