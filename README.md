@@ -84,6 +84,8 @@ Collective agency metrics of some kind rather than isolated vanity metrics like 
 
 agentic AI development would benefit from a more holistic view (*arXiv:2403.00833, 2024b.*)
 
+metacognition - as a natural byproduct of emergence. Rather than a model being single handedly responsible, the entire system emerging towards benefitcial as of yet well understood or described meta cognitive qualities seen as beneficial.
+
 ## Agentic AI Systems Theory (AAIST)
 
 *A new as of yet undeveloped method for describing how agency at the system level can emerge from the interactions between much simpler agents (tool-use LLMs), humans and the environment.*
