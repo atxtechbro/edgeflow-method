@@ -1,0 +1,1 @@
+an entity’s capacity to act independently
