@@ -82,6 +82,8 @@ IDEA: modeling the feedback loop of coding, committing, pushing, waiting for tes
 
 Collective agency metrics of some kind rather than isolated vanity metrics like this model has this score (so what? its more powerful to stack tinier more cooperative models together and their total output is more than the sum of their parts - how to measure and optimize that is the question.
 
+agentic AI development would benefit from a more holistic view (*arXiv:2403.00833, 2024b.*)
+
 ## Agentic AI Systems Theory (AAIST)
 
 *A new as of yet undeveloped method for describing how agency at the system level can emerge from the interactions between much simpler agents (tool-use LLMs), humans and the environment.*
