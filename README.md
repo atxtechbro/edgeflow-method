@@ -165,3 +165,5 @@ metacognition - as a natural byproduct of emergence. Rather than a model being s
 - Thinking along these lines, and having the rigour and systems around it, is a good way to avoid the critical thinking atrophy of knowledge workers that seems to be alluded to in the opening page of this Microsoft paper *The Impact of Generative AI on Critical Thinking: Self-Reported
 Reductions in Cognitive Effort and Confidence Effects From a
 Survey of Knowledge Workers* https://www.microsoft.com/en-us/research/wp-content/uploads/2025/01/lee_2025_ai_critical_thinking_survey.pdf
+ - breaks down knowledge workers useage of Gen AI tools into 3 major groups:
+ - 1) for creation, 2) to find or work with information, 3) to get advice.
